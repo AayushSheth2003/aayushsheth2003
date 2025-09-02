@@ -12,10 +12,12 @@
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
 
-**Tools & Frameworks:**  
+**Frameworks & Tools:**  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
